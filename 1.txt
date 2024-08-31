@@ -2,6 +2,6 @@
 
 [文件名]孤心内核.sh[文件名]
 
-[链接]https://cccimg.com/down.php/acb1720af1fa3ed085dd64bae17dc24f.sh[链接]
+[链接]https://github.com/Guxin12/Upkernel/releases/download/%E5%AD%A4%E5%BF%83/GUXIN.sh[链接]
 
 [公告]修复bug[公告]

@@ -1,0 +1,7 @@
+[版本号]1[版本号]
+
+[文件名]孤心内核.sh[文件名]
+
+[链接]https://cccimg.com/down.php/acb1720af1fa3ed085dd64bae17dc24f.sh[链接]
+
+[公告]修复bug[公告]

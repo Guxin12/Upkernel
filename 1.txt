@@ -1,7 +1,7 @@
-[版本号]1[版本号]
+[版本号]2[版本号]
 
 [文件名]孤心内核.sh[文件名]
 
-[链接]https://github.com/Guxin12/Upkernel/releases/download/%E5%AD%A4%E5%BF%83/GUXIN.sh[链接]
+[链接]https://updatekernel.yuncdn.cloud/孤心内核.sh[链接]
 
-[公告]修复bug[公告]
+[公告]更新新版本数据修复了骨骼和过滤导致的不绘制，下一个版本修复人机不绘制骨骼，ox驱动直接给我干老实了[公告]
